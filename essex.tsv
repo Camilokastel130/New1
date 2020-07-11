@@ -1,4 +1,4 @@
-Run	# of qubits	# of shots	Fidelity	Runtime
+Run	# of qubits	# of shots	Fidelity	Runtime per shot (ms)
 1	1	8192	0.893550	5.5664063
 2	1	8192	0.923710	5.6152344
 3	1	8192	0.911865	3.0395508
